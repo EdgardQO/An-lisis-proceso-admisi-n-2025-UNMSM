@@ -28,3 +28,8 @@ En el diseño en estrella se utilizó:
 - Modalidad: Especifica los tipos de modalidad de ingreso.
 - Proceso: Representa el proceso en la que se evalúan los alumnos.
 - Carrera: Define las carreras asociadas a los resultados.
+
+## 📊 Visualización de Datos en Power BI  
+![Dashboard Principal](imagenes/Imagen1PowerBI.png)  
+
+![Detalle de Análisis](imagenes/Imagen2PowerBI.png)  
